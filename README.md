@@ -1,7 +1,10 @@
 # 🛡️ OverTheWire Bandit: Security Labs (0-33)
-### **Autor:** Franco Campos
-### **Rol:** Analista de Ciberseguridad | Estudiante de Ingeniería de Arquitectura Cloud
-### **Ubicación:** Mendoza, Argentina
+**Autor:** Franco Campos
+
+**Rol:** Analista de Ciberseguridad | Estudiante de Ingeniería de Arquitectura Cloud
+
+**Ubicación:** Mendoza, Argentina
+
 ## 📝 Resumen del Proyecto
 Este repositorio contiene la documentación técnica y el análisis de la resolución del laboratorio Bandit (OverTheWire). Este desafío está diseñado para certificar competencias avanzadas en el manejo de la terminal Linux, fundamentales para la Arquitectura Cloud y la Ciberseguridad.
 ## 🚀 Habilidades Técnicas Consolidadas
